@@ -13,7 +13,7 @@ I also enjoy designing efficient software systems, from high-performance data pi
 
 **Research Experience**
 ----
-* Working on tracing tool that collect hardware data across different platforms (Windows & Linux)
-* Implement CART on libCacheSim
-* Built a cross-platform I/O tracing system (Windows ETW & Linux eBPF/BCC) to collect real-world storage, filesystem, and network events.
+* Built a cross-platform I/O tracing system ([Windows](https://github.com/cacheMon/io-tracer-win) ETW & [Linux](https://github.com/cacheMon/io-tracer) eBPF/BCC) to collect real-world storage, filesystem, and network events.
 * Designed a high-throughput data pipeline for trace ingestion, compression, and upload using Cloudflare R2, presigned URLs, and background workers.
+* Implement [Clock with Adaptive Replacement](https://theory.stanford.edu/~sbansal/pubs/fast04.pdf) on [libCacheSim](https://github.com/1a1a11a/libCacheSim).
+
