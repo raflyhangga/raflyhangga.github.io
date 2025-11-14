@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Arkavidia 9.0 Website"
+excerpt: "Co-led a team of 12 engineers to develop the Arkavidia website"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Annual IT competition organized by Informatics Student Association of ITB, engaging high school and college students through contests, workshops, and seminars.
+* Co-led a team of 12 engineers to develop the Arkavidia website, ensuring a seamless experience for 500+ users, contributing 2000+ LOC.
