@@ -11,6 +11,8 @@ I am an undergraduate computer science student at the Bandung Institute of Techn
 
 I also enjoy designing efficient software systems, from high-performance data pipelines to backend services. My long-term goal is to study and build systems that improve how modern machines manage data at scale.
 
+Currently collaborating with Professor [Juncheng Yang (Harvard University)](https://junchengyang.com/) on designing better systems!
+
 **Research Experience**
 ----
 * Built a cross-platform I/O tracing system ([Windows](https://github.com/cacheMon/io-tracer-win) ETW & [Linux](https://github.com/cacheMon/io-tracer) eBPF/BCC) to collect real-world storage, filesystem, and network events.
