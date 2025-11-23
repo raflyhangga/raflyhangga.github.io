@@ -1,5 +1,5 @@
 ---
-title: "Arkavidia 9.0 Website"
+title: "Co-lead Software Engineer Division - Arkavidia 9.0"
 excerpt: "Co-led a team of 12 engineers to develop the Arkavidia website"
 collection: portfolio
 ---
